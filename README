@@ -1,0 +1,14 @@
+README
+This app is an example of how to create different plot types with the same data using plotly and AJAX
+
+
+/templates
+    |
+    |---Index.html
+  
+/static
+    | --- js
+        |--- jquery-1.11.1.min.js
+        |--- plots.js
+        
+app.py
